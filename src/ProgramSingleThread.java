@@ -1,6 +1,6 @@
 import threads.JavaThread;
 
-public class ProgramOneThread {
+public class ProgramSingleThread {
     //простой запуск потока
     public static void main(String args[]) {
         System.out.println("Старт основного потока...");
